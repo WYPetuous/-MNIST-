@@ -20,3 +20,7 @@ MNIST数据库官方网站
 <a href="https://imgsli.com/MzE0MjA3">
 <img src="https://imgsli.com/MzE0MjA3" alt="Image Comparison">
 </a>
+
+<a href="https://imgsli.com/MzE0MjA3">
+<img src="1.png" alt="描述" style="width:300px;">
+</a>
