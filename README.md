@@ -13,3 +13,9 @@ Pytorch 1.x
 # 参考资料
 深度学习框架PyTorch入门与实践
 MNIST数据库官方网站
+
+# 前后对比度图
+
+<a href="https://imgsli.com/MzE0MjA3">
+<img src="https://imgsli.com/MzE0MjA3" alt="Image Comparison">
+</a>
