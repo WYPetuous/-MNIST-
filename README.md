@@ -15,6 +15,7 @@ Pytorch 1.x
 MNIST数据库官方网站
 
 # 前后对比度图
+![描述](1.png)
 
 <a href="https://imgsli.com/MzE0MjA3">
 <img src="https://imgsli.com/MzE0MjA3" alt="Image Comparison">
