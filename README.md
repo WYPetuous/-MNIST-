@@ -14,13 +14,7 @@ Pytorch 1.x
 深度学习框架PyTorch入门与实践
 MNIST数据库官方网站
 
-# 前后对比度图
-![描述](1.png)
-
-<a href="https://imgsli.com/MzE0MjA3">
-<img src="https://imgsli.com/MzE0MjA3" alt="Image Comparison">
-</a>
-
+# 前后对比图
 <a href="https://imgsli.com/MzE0MjA3">
 <img src="1.png" alt="描述" style="width:300px;">
 </a>
